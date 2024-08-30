@@ -1,0 +1,1 @@
+library device_application_flutter;
