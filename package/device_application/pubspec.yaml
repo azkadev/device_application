@@ -13,12 +13,17 @@ dependencies:
   device_application_flutter: 
     path: '../device_application_flutter'
   path: '^1.9.0'
-  general_lib: '^0.0.44'
+  general_lib: '^0.0.46'
 dev_dependencies: 
-  lints: '^3.0.0'
-  test: '^1.24.0'
-  flutter_lints: '^3.0.0'
+  lints: '^4.0.0'
+  test: 'any'
+  flutter_lints: '^4.0.0'
 dependency_overrides: 
   pointycastle: '3.8.0'
 funding: 
   - 'https://github.com/sponsors/azkadev'
+  - 'https://github.com/sponsors/generalfoss'
+homepage: 'https://youtube.com/@azkadev'
+repository: 'https://github.com/azkadev/general_framework'
+issue_tracker: 'https://t.me/DEVELOPER_GLOBAL_PUBLIC'
+documentation: 'https://youtube.com/@azkadev'
