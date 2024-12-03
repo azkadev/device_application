@@ -1,15 +1,12 @@
 name: 'device_application_flutter'
-description: 'A new Flutter plugin project.'
-version: '0.0.1'
+version: '0.0.0'
+description: 'Device Application Flutter package for fetch applications'
 environment:
   sdk: '>=3.3.3 <4.0.0'
   flutter: '>=3.3.0'
 dependencies:
   flutter:
-    sdk: 'flutter'
-  flutter_web_plugins:
-    sdk: 'flutter'
-  plugin_platform_interface: '^2.0.2'
+    sdk: 'flutter' 
 dev_dependencies:
   flutter_test:
     sdk: 'flutter'
@@ -29,3 +26,4 @@ funding:
 repository: 'https://github.com/azkadev/general_framework'
 issue_tracker: 'https://t.me/DEVELOPER_GLOBAL_PUBLIC'
 documentation: 'https://youtube.com/@azkadev'
+homepage: 'https://youtube.com/@azkadev'

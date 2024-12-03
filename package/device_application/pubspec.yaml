@@ -1,7 +1,6 @@
 name: 'device_application'
-description: 'A sample command-line application.'
-version: '1.0.0'
-publish_to: 'none'
+description: 'Device Application Flutter package for fetch applications'
+version: '0.0.0'
 environment:
   sdk: '>=3.3.3 <4.0.0'
 dependencies:
@@ -10,8 +9,7 @@ dependencies:
   flutter_web_plugins:
     sdk: 'flutter'
   plugin_platform_interface: '^2.0.2'
-  device_application_flutter:
-    path: '../device_application_flutter'
+  device_application_flutter: "^0.0.0" 
   path: '^1.9.0'
   general_lib: '^0.0.49'
 dev_dependencies:

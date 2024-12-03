@@ -175,14 +175,15 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "1.0.0"
+    version: "0.0.0"
   device_application_flutter:
     dependency: transitive
     description:
-      path: "../../device_application_flutter"
-      relative: true
-    source: path
-    version: "0.0.1"
+      name: device_application_flutter
+      sha256: "73ac473dec7a47d0e245332f1baa264fd1e312e9ae54744d5a38ec6ae31dd4d1"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.0"
   encrypt:
     dependency: transitive
     description:
