@@ -1,29 +1,29 @@
 name: 'device_application_flutter'
 description: 'A new Flutter plugin project.'
 version: '0.0.1'
-homepage: null
-environment: 
+environment:
   sdk: '>=3.3.3 <4.0.0'
   flutter: '>=3.3.0'
-dependencies: 
-  flutter: 
+dependencies:
+  flutter:
     sdk: 'flutter'
-  flutter_web_plugins: 
+  flutter_web_plugins:
     sdk: 'flutter'
   plugin_platform_interface: '^2.0.2'
-dev_dependencies: 
-  flutter_test: 
+dev_dependencies:
+  flutter_test:
     sdk: 'flutter'
   flutter_lints: '^4.0.0'
-flutter: 
-  plugin: 
-    platforms: 
-      android: 
+flutter:
+  plugin:
+    platforms:
+      android:
         package: 'global_corporation.general_developer.device_application_flutter'
         pluginClass: 'DeviceApplicationFlutterPlugin'
-dependency_overrides: 
+dependency_overrides:
   pointycastle: '3.8.0'
-funding: 
+  mime: '^2.0.0'
+funding:
   - 'https://github.com/sponsors/azkadev'
   - 'https://github.com/sponsors/generalfoss'
 repository: 'https://github.com/azkadev/general_framework'

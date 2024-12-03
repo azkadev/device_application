@@ -1,6 +1,6 @@
 import 'package:device_application/flutter/flutter.dart';
-import 'package:example/apps_events.dart';
-import 'package:example/apps_list.dart'; 
+import 'apps_events.dart';
+import 'apps_list.dart'; 
 import 'package:flutter/material.dart';
 
 void main() {
