@@ -2,7 +2,7 @@ name: 'device_application_flutter'
 version: '0.0.0'
 description: 'Device Application Flutter package for fetch applications'
 environment:
-  sdk: '>=3.3.3 <4.0.0'
+  sdk: '>=3.6.0 <4.0.0'
   flutter: '>=3.3.0'
 dependencies:
   flutter:
